@@ -3,3 +3,4 @@ belajar advance python
 buat web django dan rest api
 belajar bfront end
 belajar komputer program 10 jam perhari
+belajar postgret ,mysql 
